@@ -1,0 +1,6 @@
+node_modules/
+package.json
+package-lock.json
+.eslintrc.json
+.vscode/settings.json
+README.md
